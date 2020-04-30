@@ -1,0 +1,21 @@
+annoyingInJokes: 1
+controller: 0
+controllerScollLockCursor: 1
+dialogChoiceSize: 0
+hudSentence: 1
+invertVerbHighlight: 0
+language: "en"
+retroFonts: 0
+retroVerbs: 0
+safeScale: 0.975321
+sayLineSize: 0
+sayLineSpeed: 0.5
+talkiesHearVoice: 1
+talkiesShowText: 1
+toiletPaperOver: 1
+volumeMusic: 0.5
+volumeSound: 0.5
+volumeTalkies: 0.5
+windowFullscreen: 1
+windowPosition: "{ 43, 24 }"
+windowSize: "{ 1280, 720 }"

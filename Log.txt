@@ -1,0 +1,456 @@
+[04/28/20 23:10:46] Booted.
+[04/28/20 23:11:01] Animation stand_front not found.
+[04/28/20 23:11:02] Animation stand_front not found.
+[04/28/20 23:11:02] Animation stand_front not found.
+[04/28/20 23:19:39] cutscene called while another cutscene is running
+[04/28/20 23:20:14] Can't save while in a cutscene or dialog.
+[04/28/20 23:21:47] Animation stand_front not found.
+[04/28/20 23:21:47] Animation stand_front not found.
+[04/28/20 23:27:48] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame2.save'
+[04/28/20 23:27:48] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame3.save'
+[04/28/20 23:27:48] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame4.save'
+[04/28/20 23:27:48] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame5.save'
+[04/28/20 23:27:48] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame6.save'
+[04/28/20 23:27:48] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/28/20 23:27:48] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/28/20 23:27:48] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/28/20 23:27:59] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame3.save'
+[04/28/20 23:27:59] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame4.save'
+[04/28/20 23:28:00] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame5.save'
+[04/28/20 23:28:00] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame6.save'
+[04/28/20 23:28:00] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/28/20 23:28:00] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/28/20 23:28:00] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/28/20 23:35:53] Can't save while in a cutscene or dialog.
+[04/28/20 23:40:02] Can't save while in a cutscene or dialog.
+[04/28/20 23:40:49] Can't save while in a cutscene or dialog.
+[04/28/20 23:52:00] Can't save while in a cutscene or dialog.
+[04/28/20 23:53:34] Can't save while in a cutscene or dialog.
+[04/29/20 00:02:26] Animation stand_right not found.
+[04/29/20 00:02:26] Animation stand_right not found.
+[04/29/20 00:02:38] Animation stand_right not found.
+[04/29/20 00:02:38] Animation stand_right not found.
+[04/29/20 00:06:30] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame3.save'
+[04/29/20 00:06:30] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame4.save'
+[04/29/20 00:06:30] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame5.save'
+[04/29/20 00:06:30] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame6.save'
+[04/29/20 00:06:30] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 00:06:30] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 00:06:30] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 00:06:36] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame4.save'
+[04/29/20 00:06:36] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame5.save'
+[04/29/20 00:06:36] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame6.save'
+[04/29/20 00:06:36] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 00:06:36] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 00:06:36] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 00:10:59] Can't save while in a cutscene or dialog.
+[04/29/20 00:18:09] Animation stand_right not found.
+[04/29/20 00:18:09] Animation stand_right not found.
+[04/29/20 00:18:19] Animation stand_right not found.
+[04/29/20 00:18:19] Animation stand_right not found.
+[04/29/20 00:26:10] Can't save while in a cutscene or dialog.
+[04/29/20 00:52:23] Animation stand_right not found.
+[04/29/20 00:52:23] Animation stand_right not found.
+[04/29/20 00:53:04] Can't save while in a cutscene or dialog.
+[04/29/20 00:53:55] Can't save while in a cutscene or dialog.
+[04/29/20 01:05:40] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame4.save'
+[04/29/20 01:05:40] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame5.save'
+[04/29/20 01:05:40] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame6.save'
+[04/29/20 01:05:40] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 01:05:40] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 01:05:40] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 01:08:12] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame5.save'
+[04/29/20 01:08:12] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame6.save'
+[04/29/20 01:08:12] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 01:08:12] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 01:08:12] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 01:08:13] Loading: Object 'speck_of_dust_room-4013023' not found.
+[04/29/20 01:08:13] Loading: Object 'speck_of_dust_room-4011996' not found.
+[04/29/20 01:08:13] Loading: Object 'speck_of_dust_room-4013024' not found.
+[04/29/20 01:08:13] Loading: Object 'speck_of_dust_room-4013055' not found.
+[04/29/20 01:08:13] Loading: Object 'speck_of_dust_room-4012871' not found.
+[04/29/20 01:08:13] Loading: Object 'speck_of_dust_room-4013038' not found.
+[04/29/20 01:08:13] Loading: Object 'speck_of_dust_room-4013042' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4013040' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4013050' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4012005' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4013052' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4011825' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4011768' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4011985' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4011982' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4011966' not found.
+[04/29/20 01:08:14] Loading: Object 'speck_of_dust_room-4012865' not found.
+[04/29/20 01:08:14] Loading: Object 'hotelRoomATVGlow' not found.
+[04/29/20 01:21:43] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame5.save'
+[04/29/20 01:21:43] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame6.save'
+[04/29/20 01:21:43] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 01:21:43] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 01:21:43] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 01:38:28] Can't save while in a cutscene or dialog.
+[04/29/20 01:41:38] Can't save while in a cutscene or dialog.
+[04/29/20 01:42:56] Light 0 can't be found.
+[04/29/20 01:50:04] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame6.save'
+[04/29/20 01:50:04] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 01:50:04] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 01:50:04] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 01:52:03] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 01:52:04] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 01:52:04] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 15:15:35] Booted.
+[04/29/20 15:16:10] Animation stand_front not found.
+[04/29/20 15:16:10] Animation stand_front not found.
+[04/29/20 15:16:10] Animation stand_front not found.
+[04/29/20 17:05:40] Booted.
+[04/29/20 17:05:52] Animation stand_front not found.
+[04/29/20 17:05:52] Animation stand_front not found.
+[04/29/20 17:05:53] Animation stand_front not found.
+[04/29/20 17:08:33] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 17:08:33] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 17:08:33] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 17:08:52] Loading: Object 'speck_of_dust_room-4011929' not found.
+[04/29/20 17:08:52] Loading: Object 'speck_of_dust_room-4011883' not found.
+[04/29/20 17:08:52] Loading: Object 'speck_of_dust_room-4011898' not found.
+[04/29/20 17:08:52] Loading: Object 'speck_of_dust_room-4011897' not found.
+[04/29/20 17:08:52] Loading: Object 'speck_of_dust_room-4011855' not found.
+[04/29/20 17:08:52] Loading: Object 'speck_of_dust_room-4011825' not found.
+[04/29/20 17:08:52] Loading: Object 'speck_of_dust_room-4011768' not found.
+[04/29/20 17:08:52] Loading: Object 'hotelRoomATVGlow' not found.
+[04/29/20 17:08:53] Animation stand_right not found.
+[04/29/20 17:08:53] Animation stand_right not found.
+[04/29/20 17:08:53] Animation stand_right not found.
+[04/29/20 17:08:53] Input or cursor off during load.
+[04/29/20 17:56:45] Booted.
+[04/29/20 17:56:51] Unable to init SDL mixer: DirectSoundCreate8: No audio device found
+[04/29/20 17:58:04] Booted.
+[04/29/20 17:58:21] Animation stand_front not found.
+[04/29/20 17:58:21] Animation stand_front not found.
+[04/29/20 17:58:21] Animation stand_front not found.
+[04/29/20 17:58:42] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 17:58:42] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 17:58:42] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 17:58:48] Loading: Object 'speck_of_dust_room-4011929' not found.
+[04/29/20 17:58:48] Loading: Object 'speck_of_dust_room-4011883' not found.
+[04/29/20 17:58:48] Loading: Object 'speck_of_dust_room-4011898' not found.
+[04/29/20 17:58:48] Loading: Object 'speck_of_dust_room-4011897' not found.
+[04/29/20 17:58:49] Loading: Object 'speck_of_dust_room-4011855' not found.
+[04/29/20 17:58:49] Loading: Object 'speck_of_dust_room-4011825' not found.
+[04/29/20 17:58:49] Loading: Object 'speck_of_dust_room-4011768' not found.
+[04/29/20 17:58:49] Loading: Object 'hotelRoomATVGlow' not found.
+[04/29/20 17:58:49] Animation stand_right not found.
+[04/29/20 17:58:49] Animation stand_right not found.
+[04/29/20 17:58:49] Animation stand_right not found.
+[04/29/20 17:58:50] Input or cursor off during load.
+[04/29/20 18:07:47] Can't save while in a cutscene or dialog.
+[04/29/20 18:09:12] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 18:09:12] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 18:09:12] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 18:09:39] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 18:09:40] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 18:09:40] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame9.save'
+[04/29/20 18:10:02] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 18:10:02] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 18:10:07] Loading: Object 'speck_of_dust_room-4011170' not found.
+[04/29/20 18:10:07] Loading: Object 'speck_of_dust_room-4011171' not found.
+[04/29/20 18:10:07] Loading: Object 'hotelRoomATVGlow' not found.
+[04/29/20 18:12:51] Booted.
+[04/29/20 18:12:59] Animation stand_front not found.
+[04/29/20 18:12:59] Animation stand_front not found.
+[04/29/20 18:12:59] Animation stand_front not found.
+[04/29/20 18:15:52] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 18:15:52] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 18:15:54] Loading: Object 'speck_of_dust_room-4011170' not found.
+[04/29/20 18:15:54] Loading: Object 'speck_of_dust_room-4011171' not found.
+[04/29/20 18:15:55] Loading: Object 'hotelRoomATVGlow' not found.
+[04/29/20 18:15:55] Animation stand_right not found.
+[04/29/20 18:15:55] Animation stand_right not found.
+[04/29/20 18:15:56] Input or cursor off during load.
+[04/29/20 18:27:07] Booted.
+[04/29/20 18:27:18] Animation stand_front not found.
+[04/29/20 18:27:19] Animation stand_front not found.
+[04/29/20 18:27:19] Animation stand_front not found.
+[04/29/20 18:27:23] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 18:27:23] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 18:27:25] Loading: Object 'speck_of_dust_room-4011170' not found.
+[04/29/20 18:27:25] Loading: Object 'speck_of_dust_room-4011171' not found.
+[04/29/20 18:27:25] Loading: Object 'hotelRoomATVGlow' not found.
+[04/29/20 18:27:25] Animation stand_right not found.
+[04/29/20 18:27:25] Animation stand_right not found.
+[04/29/20 18:27:26] Input or cursor off during load.
+[04/29/20 18:31:26] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 18:31:26] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4013023' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4011996' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4022209' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4013024' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4022119' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4012871' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4013038' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4022122' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4013040' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4021695' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4012005' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4013052' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4021689' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4022208' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4021833' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4022117' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4011985' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4011982' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4011966' not found.
+[04/29/20 18:31:32] Loading: Object 'speck_of_dust_room-4012865' not found.
+[04/29/20 18:31:32] Loading: Object 'hotelRoomATVGlow' not found.
+[04/29/20 18:36:05] Can't save while in a cutscene or dialog.
+[04/29/20 19:13:40] Can't save while in a cutscene or dialog.
+[04/29/20 20:33:05] Can't save while in a cutscene or dialog.
+[04/29/20 20:44:52] Light 6003077 can't be found.
+[04/29/20 20:46:17] Light 6003980 can't be found.
+[04/29/20 20:54:06] Can't save while in a cutscene or dialog.
+[04/29/20 20:54:15] Can't save while in a cutscene or dialog.
+[04/29/20 20:54:35] Can't save while in a cutscene or dialog.
+[04/29/20 21:13:30] Can't save while in a cutscene or dialog.
+[04/29/20 21:14:59] Light 6004269 can't be found.
+[04/29/20 21:14:59] Light 6004270 can't be found.
+[04/29/20 21:14:59] Light 6004271 can't be found.
+[04/29/20 21:14:59] Light 6004273 can't be found.
+[04/29/20 21:14:59] Light 6004274 can't be found.
+[04/29/20 21:15:02] Can't save while in a cutscene or dialog.
+[04/29/20 21:15:28] Light 6004284 can't be found.
+[04/29/20 21:15:28] Light 6004285 can't be found.
+[04/29/20 21:15:28] Light 6004286 can't be found.
+[04/29/20 21:15:28] Light 6004288 can't be found.
+[04/29/20 21:15:28] Light 6004289 can't be found.
+[04/29/20 21:15:28] Can't save while in a cutscene or dialog.
+[04/29/20 21:15:29] Light 6004299 can't be found.
+[04/29/20 21:15:29] Light 6004300 can't be found.
+[04/29/20 21:15:29] Light 6004301 can't be found.
+[04/29/20 21:15:29] Light 6004303 can't be found.
+[04/29/20 21:15:29] Light 6004304 can't be found.
+[04/29/20 21:15:31] Can't save while in a cutscene or dialog.
+[04/29/20 21:15:50] Light 6004314 can't be found.
+[04/29/20 21:15:50] Light 6004315 can't be found.
+[04/29/20 21:15:50] Light 6004316 can't be found.
+[04/29/20 21:15:50] Light 6004318 can't be found.
+[04/29/20 21:15:50] Light 6004319 can't be found.
+[04/29/20 21:15:52] Can't save while in a cutscene or dialog.
+[04/29/20 21:16:04] Light 6004329 can't be found.
+[04/29/20 21:16:04] Light 6004330 can't be found.
+[04/29/20 21:16:04] Light 6004331 can't be found.
+[04/29/20 21:16:04] Light 6004333 can't be found.
+[04/29/20 21:16:04] Light 6004334 can't be found.
+[04/29/20 21:16:07] Can't save while in a cutscene or dialog.
+[04/29/20 21:16:08] Light 6004344 can't be found.
+[04/29/20 21:16:08] Light 6004345 can't be found.
+[04/29/20 21:16:08] Light 6004346 can't be found.
+[04/29/20 21:16:08] Light 6004348 can't be found.
+[04/29/20 21:16:08] Light 6004349 can't be found.
+[04/29/20 21:16:09] Can't save while in a cutscene or dialog.
+[04/29/20 21:16:10] Light 6004359 can't be found.
+[04/29/20 21:16:10] Light 6004360 can't be found.
+[04/29/20 21:16:11] Light 6004361 can't be found.
+[04/29/20 21:16:11] Light 6004363 can't be found.
+[04/29/20 21:16:11] Light 6004364 can't be found.
+[04/29/20 21:16:13] Can't save while in a cutscene or dialog.
+[04/29/20 21:16:15] Light 6004374 can't be found.
+[04/29/20 21:16:15] Light 6004375 can't be found.
+[04/29/20 21:16:15] Light 6004376 can't be found.
+[04/29/20 21:16:15] Light 6004378 can't be found.
+[04/29/20 21:16:15] Light 6004379 can't be found.
+[04/29/20 21:16:17] Can't save while in a cutscene or dialog.
+[04/29/20 21:16:45] Light 6004389 can't be found.
+[04/29/20 21:16:45] Light 6004390 can't be found.
+[04/29/20 21:16:45] Light 6004391 can't be found.
+[04/29/20 21:16:45] Light 6004393 can't be found.
+[04/29/20 21:16:45] Light 6004394 can't be found.
+[04/29/20 21:16:47] Can't save while in a cutscene or dialog.
+[04/29/20 21:16:56] Light 6004404 can't be found.
+[04/29/20 21:16:56] Light 6004405 can't be found.
+[04/29/20 21:16:56] Light 6004406 can't be found.
+[04/29/20 21:16:56] Light 6004408 can't be found.
+[04/29/20 21:16:56] Light 6004409 can't be found.
+[04/29/20 21:16:59] Can't save while in a cutscene or dialog.
+[04/29/20 21:17:00] Light 6004419 can't be found.
+[04/29/20 21:17:00] Light 6004420 can't be found.
+[04/29/20 21:17:00] Light 6004421 can't be found.
+[04/29/20 21:17:00] Light 6004423 can't be found.
+[04/29/20 21:17:00] Light 6004424 can't be found.
+[04/29/20 21:17:03] Can't save while in a cutscene or dialog.
+[04/29/20 21:17:16] Light 6004434 can't be found.
+[04/29/20 21:17:16] Light 6004435 can't be found.
+[04/29/20 21:17:16] Light 6004436 can't be found.
+[04/29/20 21:17:16] Light 6004438 can't be found.
+[04/29/20 21:17:16] Light 6004439 can't be found.
+[04/29/20 21:17:19] Can't save while in a cutscene or dialog.
+[04/29/20 21:17:34] Light 6004449 can't be found.
+[04/29/20 21:17:34] Light 6004450 can't be found.
+[04/29/20 21:17:34] Light 6004451 can't be found.
+[04/29/20 21:17:34] Light 6004453 can't be found.
+[04/29/20 21:17:34] Light 6004454 can't be found.
+[04/29/20 21:17:40] Can't save while in a cutscene or dialog.
+[04/29/20 21:17:54] Light 6004464 can't be found.
+[04/29/20 21:17:54] Light 6004465 can't be found.
+[04/29/20 21:17:54] Light 6004466 can't be found.
+[04/29/20 21:17:54] Light 6004468 can't be found.
+[04/29/20 21:17:54] Light 6004469 can't be found.
+[04/29/20 21:17:56] Can't save while in a cutscene or dialog.
+[04/29/20 21:18:07] Light 6004479 can't be found.
+[04/29/20 21:18:07] Light 6004480 can't be found.
+[04/29/20 21:18:07] Light 6004481 can't be found.
+[04/29/20 21:18:07] Light 6004483 can't be found.
+[04/29/20 21:18:07] Light 6004484 can't be found.
+[04/29/20 21:19:27] Can't save while in a cutscene or dialog.
+[04/29/20 21:22:26] Light 6004572 can't be found.
+[04/29/20 21:22:26] Light 6004573 can't be found.
+[04/29/20 21:22:26] Light 6004574 can't be found.
+[04/29/20 21:22:26] Light 6004576 can't be found.
+[04/29/20 21:22:26] Light 6004577 can't be found.
+[04/29/20 21:25:01] Can't save while in a cutscene or dialog.
+[04/29/20 21:31:14] Can't save while in a cutscene or dialog.
+[04/29/20 21:35:28] Can't save while in a cutscene or dialog.
+[04/29/20 21:35:56] Can't save while in a cutscene or dialog.
+[04/29/20 21:36:00] Can't save while in a cutscene or dialog.
+[04/29/20 21:36:04] Can't save while in a cutscene or dialog.
+[04/29/20 21:37:03] Can't save while in a cutscene or dialog.
+[04/29/20 21:37:33] Can't save while in a cutscene or dialog.
+[04/29/20 21:37:50] Can't save while in a cutscene or dialog.
+[04/29/20 21:52:26] Can't save while in a cutscene or dialog.
+[04/29/20 21:52:33] Can't save while in a cutscene or dialog.
+[04/29/20 21:52:36] Can't save while in a cutscene or dialog.
+[04/29/20 21:52:39] Can't save while in a cutscene or dialog.
+[04/29/20 21:52:42] Can't save while in a cutscene or dialog.
+[04/29/20 21:52:46] Can't save while in a cutscene or dialog.
+[04/29/20 21:54:36] Light 6005193 can't be found.
+[04/29/20 21:54:36] Light 6005194 can't be found.
+[04/29/20 21:54:36] Light 6005195 can't be found.
+[04/29/20 21:54:36] Light 6005197 can't be found.
+[04/29/20 21:54:36] Light 6005198 can't be found.
+[04/29/20 21:55:49] Can't save while in a cutscene or dialog.
+[04/29/20 21:55:49] Can't save while in a cutscene or dialog.
+[04/29/20 21:57:58] Can't save while in a cutscene or dialog.
+[04/29/20 22:02:49] Can't save while in a cutscene or dialog.
+[04/29/20 22:10:17] Light 6003996 can't be found.
+[04/29/20 22:10:39] Can't save while in a cutscene or dialog.
+[04/29/20 22:11:38] Can't save while in a cutscene or dialog.
+[04/29/20 22:14:01] Can't save while in a cutscene or dialog.
+[04/29/20 22:14:45] Can't save while in a cutscene or dialog.
+[04/29/20 22:16:24] Can't save while in a cutscene or dialog.
+[04/29/20 22:18:07] Can't save while in a cutscene or dialog.
+[04/29/20 22:18:37] Can't save while in a cutscene or dialog.
+[04/29/20 22:18:58] Can't save while in a cutscene or dialog.
+[04/29/20 22:19:42] Can't save while in a cutscene or dialog.
+[04/29/20 22:19:50] Can't save while in a cutscene or dialog.
+[04/29/20 22:19:57] Can't save while in a cutscene or dialog.
+[04/29/20 22:20:05] Can't save while in a cutscene or dialog.
+[04/29/20 22:20:15] Can't save while in a cutscene or dialog.
+[04/29/20 22:21:00] Can't save while in a cutscene or dialog.
+[04/29/20 22:21:10] Can't save while in a cutscene or dialog.
+[04/29/20 22:21:18] Can't save while in a cutscene or dialog.
+[04/29/20 22:21:22] Can't save while in a cutscene or dialog.
+[04/29/20 22:21:34] Can't save while in a cutscene or dialog.
+[04/29/20 22:22:04] Can't save while in a cutscene or dialog.
+[04/29/20 22:22:43] Can't save while in a cutscene or dialog.
+[04/29/20 22:23:26] Can't save while in a cutscene or dialog.
+[04/29/20 22:30:52] Can't save while in a cutscene or dialog.
+[04/29/20 22:31:12] Can't save while in a cutscene or dialog.
+[04/29/20 22:31:36] Can't save while in a cutscene or dialog.
+[04/29/20 22:32:14] Can't save while in a cutscene or dialog.
+[04/29/20 22:32:31] Can't save while in a cutscene or dialog.
+[04/29/20 22:32:52] Can't save while in a cutscene or dialog.
+[04/29/20 22:36:49] Can't save while in a cutscene or dialog.
+[04/29/20 22:37:28] Can't save while in a cutscene or dialog.
+[04/29/20 22:41:31] Can't save while in a cutscene or dialog.
+[04/29/20 22:51:28] Can't save while in a cutscene or dialog.
+[04/29/20 22:55:27] Can't save while in a cutscene or dialog.
+[04/29/20 22:56:53] Can't save while in a cutscene or dialog.
+[04/29/20 22:57:30] Can't save while in a cutscene or dialog.
+[04/29/20 23:00:34] Can't save while in a cutscene or dialog.
+[04/29/20 23:02:02] Can't save while in a cutscene or dialog.
+[04/29/20 23:02:12] Can't save while in a cutscene or dialog.
+[04/29/20 23:02:40] Can't save while in a cutscene or dialog.
+[04/29/20 23:03:32] Can't save while in a cutscene or dialog.
+[04/29/20 23:04:22] Can't save while in a cutscene or dialog.
+[04/29/20 23:04:30] Can't save while in a cutscene or dialog.
+[04/29/20 23:04:35] Can't save while in a cutscene or dialog.
+[04/29/20 23:04:48] Can't save while in a cutscene or dialog.
+[04/29/20 23:05:15] Can't save while in a cutscene or dialog.
+[04/29/20 23:05:38] Can't save while in a cutscene or dialog.
+[04/29/20 23:07:21] Can't save while in a cutscene or dialog.
+[04/29/20 23:07:49] Can't save while in a cutscene or dialog.
+[04/29/20 23:08:05] Can't save while in a cutscene or dialog.
+[04/29/20 23:11:56] Can't save while in a cutscene or dialog.
+[04/29/20 23:12:12] Can't save while in a cutscene or dialog.
+[04/29/20 23:17:28] Can't save while in a cutscene or dialog.
+[04/29/20 23:17:52] Can't save while in a cutscene or dialog.
+[04/29/20 23:29:44] Can't save while in a cutscene or dialog.
+[04/29/20 23:32:18] Can't save while in a cutscene or dialog.
+[04/29/20 23:33:13] Can't save while in a cutscene or dialog.
+[04/29/20 23:43:39] Can't save while in a cutscene or dialog.
+[04/29/20 23:46:59] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame7.save'
+[04/29/20 23:46:59] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/29/20 23:47:35] Can't save while in a cutscene or dialog.
+[04/29/20 23:47:49] Can't save while in a cutscene or dialog.
+[04/29/20 23:48:17] Can't save while in a cutscene or dialog.
+[04/29/20 23:48:31] Can't save while in a cutscene or dialog.
+[04/29/20 23:50:56] Can't save while in a cutscene or dialog.
+[04/29/20 23:52:00] Can't save while in a cutscene or dialog.
+[04/29/20 23:58:48] Can't save while in a cutscene or dialog.
+[04/30/20 00:01:57] Can't save while in a cutscene or dialog.
+[04/30/20 00:08:58] Can't save while in a cutscene or dialog.
+[04/30/20 00:12:09] Can't save while in a cutscene or dialog.
+[04/30/20 00:22:36] Light 6007165 can't be found.
+[04/30/20 00:22:36] Light 6007166 can't be found.
+[04/30/20 00:22:36] Light 6007167 can't be found.
+[04/30/20 00:22:36] Light 6007169 can't be found.
+[04/30/20 00:22:36] Light 6007170 can't be found.
+[04/30/20 00:25:36] Light 6007188 can't be found.
+[04/30/20 00:25:36] Light 6007188 can't be found.
+[04/30/20 00:25:36] Light 6007188 can't be found.
+[04/30/20 00:25:36] Light 6007188 can't be found.
+[04/30/20 00:25:36] Light 6007188 can't be found.
+[04/30/20 00:25:36] Light 6007188 can't be found.
+[04/30/20 00:25:36] Light 6007188 can't be found.
+[04/30/20 00:25:36] Light 6007188 can't be found.
+[04/30/20 00:26:31] Can't save while in a cutscene or dialog.
+[04/30/20 00:27:34] Can't save while in a cutscene or dialog.
+[04/30/20 00:31:24] Can't save while in a cutscene or dialog.
+[04/30/20 00:38:22] Can't save while in a cutscene or dialog.
+[04/30/20 00:39:51] Can't save while in a cutscene or dialog.
+[04/30/20 00:42:57] Can't save while in a cutscene or dialog.
+[04/30/20 00:45:17] Can't save while in a cutscene or dialog.
+[04/30/20 00:45:54] Can't save while in a cutscene or dialog.
+[04/30/20 00:46:13] Can't save while in a cutscene or dialog.
+[04/30/20 00:48:21] Can't save while in a cutscene or dialog.
+[04/30/20 00:48:34] Can't save while in a cutscene or dialog.
+[04/30/20 00:49:36] Can't save while in a cutscene or dialog.
+[04/30/20 00:49:43] Can't save while in a cutscene or dialog.
+[04/30/20 00:49:48] Can't save while in a cutscene or dialog.
+[04/30/20 00:49:54] Can't save while in a cutscene or dialog.
+[04/30/20 00:50:03] Can't save while in a cutscene or dialog.
+[04/30/20 00:50:43] Can't save while in a cutscene or dialog.
+[04/30/20 00:57:33] Can't save while in a cutscene or dialog.
+[04/30/20 00:57:52] Can't save while in a cutscene or dialog.
+[04/30/20 00:59:27] Can't save while in a cutscene or dialog.
+[04/30/20 00:59:58] Can't save while in a cutscene or dialog.
+[04/30/20 01:00:04] Can't save while in a cutscene or dialog.
+[04/30/20 01:00:09] Can't save while in a cutscene or dialog.
+[04/30/20 01:00:14] Can't save while in a cutscene or dialog.
+[04/30/20 01:00:20] Can't save while in a cutscene or dialog.
+[04/30/20 01:00:23] Can't save while in a cutscene or dialog.
+[04/30/20 01:00:28] Can't save while in a cutscene or dialog.
+[04/30/20 01:00:39] Can't save while in a cutscene or dialog.
+[04/30/20 01:00:45] Can't save while in a cutscene or dialog.
+[04/30/20 01:00:47] Can't save while in a cutscene or dialog.
+[04/30/20 01:01:20] Can't save while in a cutscene or dialog.
+[04/30/20 01:02:50] Can't save while in a cutscene or dialog.
+[04/30/20 01:07:03] Can't save while in a cutscene or dialog.
+[04/30/20 01:09:12] Can't save while in a cutscene or dialog.
+[04/30/20 01:13:30] Can't save while in a cutscene or dialog.
+[04/30/20 01:16:24] Can't save while in a cutscene or dialog.
+[04/30/20 01:28:49] Can't save while in a cutscene or dialog.
+[04/30/20 01:28:59] Can't save while in a cutscene or dialog.
+[04/30/20 01:34:15] Can't open file 'C:\Users\danie\AppData\Roaming\Terrible Toybox\Thimbleweed Park\/Savegame8.save'
+[04/30/20 01:37:40] Can't save while in a cutscene or dialog.
+[04/30/20 01:37:52] Can't save while in a cutscene or dialog.
+[04/30/20 01:39:12] Can't save while in a cutscene or dialog.
+[04/30/20 01:44:06] Can't save while in a cutscene or dialog.
+[04/30/20 01:46:12] Can't save while in a cutscene or dialog.
