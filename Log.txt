@@ -454,3 +454,264 @@
 [04/30/20 01:39:12] Can't save while in a cutscene or dialog.
 [04/30/20 01:44:06] Can't save while in a cutscene or dialog.
 [04/30/20 01:46:12] Can't save while in a cutscene or dialog.
+[04/30/20 21:08:17] Booted.
+[04/30/20 21:08:26] Animation stand_front not found.
+[04/30/20 21:08:26] Animation stand_front not found.
+[04/30/20 21:08:26] Animation stand_front not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4011237' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4011197' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4046128' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4056431' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4060609' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4055184' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4062837' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4060594' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4021651' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4048263' not found.
+[04/30/20 21:09:41] Loading: Object 'speck_of_dust_room-4045890' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4021650' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4021915' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4046084' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4046102' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4063004' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4021942' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4021968' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4060601' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4022075' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4021705' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4021752' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4062854' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4062860' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4056412' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4060578' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4062855' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4048267' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4022124' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4056409' not found.
+[04/30/20 21:09:42] Loading: Object 'speck_of_dust_room-4062680' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4060612' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036528' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4057466' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4021882' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4048330' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4048329' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4048326' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036899' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036598' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4037146' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036887' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036888' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036902' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036901' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036958' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036990' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4037255' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036716' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036730' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4037211' not found.
+[04/30/20 21:09:43] Loading: Object 'speck_of_dust_room-4036772' not found.
+[04/30/20 21:09:44] Loading: Object 'speck_of_dust_room-4037176' not found.
+[04/30/20 21:09:44] Loading: Object 'speck_of_dust_room-4037216' not found.
+[04/30/20 21:09:44] Loading: Object 'hotelRoomATVGlow' not found.
+[04/30/20 21:09:44] Input or cursor off during load.
+[04/30/20 21:17:47] Can't save while in a cutscene or dialog.
+[04/30/20 21:18:41] Can't save while in a cutscene or dialog.
+[04/30/20 21:26:44] Can't save while in a cutscene or dialog.
+[04/30/20 21:28:52] Can't save while in a cutscene or dialog.
+[04/30/20 21:29:15] Can't save while in a cutscene or dialog.
+[04/30/20 21:29:27] Can't save while in a cutscene or dialog.
+[04/30/20 21:32:35] Can't save while in a cutscene or dialog.
+[04/30/20 21:39:20] Can't save while in a cutscene or dialog.
+[04/30/20 21:39:25] Can't save while in a cutscene or dialog.
+[04/30/20 21:39:28] Can't save while in a cutscene or dialog.
+[04/30/20 21:39:31] Can't save while in a cutscene or dialog.
+[04/30/20 21:39:34] Can't save while in a cutscene or dialog.
+[04/30/20 21:40:20] Light 6003326 can't be found.
+[04/30/20 21:40:20] Light 6003327 can't be found.
+[04/30/20 21:40:20] Light 6003328 can't be found.
+[04/30/20 21:40:20] Light 6003330 can't be found.
+[04/30/20 21:40:20] Light 6003331 can't be found.
+[04/30/20 21:40:55] Light 6003345 can't be found.
+[04/30/20 21:40:55] Light 6003346 can't be found.
+[04/30/20 21:40:55] Light 6003347 can't be found.
+[04/30/20 21:40:55] Light 6003349 can't be found.
+[04/30/20 21:40:55] Light 6003350 can't be found.
+[04/30/20 21:42:39] Can't save while in a cutscene or dialog.
+[04/30/20 21:43:05] Can't save while in a cutscene or dialog.
+[04/30/20 21:43:32] Can't save while in a cutscene or dialog.
+[04/30/20 21:44:51] Can't save while in a cutscene or dialog.
+[04/30/20 21:46:13] Can't save while in a cutscene or dialog.
+[04/30/20 21:52:19] Can't save while in a cutscene or dialog.
+[04/30/20 21:52:52] Can't save while in a cutscene or dialog.
+[04/30/20 21:55:35] Can't save while in a cutscene or dialog.
+[04/30/20 22:02:46] Can't save while in a cutscene or dialog.
+[04/30/20 22:05:49] Can't save while in a cutscene or dialog.
+[04/30/20 22:07:00] Can't save while in a cutscene or dialog.
+[04/30/20 22:09:25] Can't save while in a cutscene or dialog.
+[04/30/20 22:10:20] Can't save while in a cutscene or dialog.
+[04/30/20 22:11:36] Can't save while in a cutscene or dialog.
+[04/30/20 22:12:09] Can't save while in a cutscene or dialog.
+[04/30/20 22:14:22] Can't save while in a cutscene or dialog.
+[04/30/20 22:16:44] Can't save while in a cutscene or dialog.
+[04/30/20 22:17:38] Can't save while in a cutscene or dialog.
+[04/30/20 22:19:38] Can't save while in a cutscene or dialog.
+[04/30/20 22:19:42] Can't save while in a cutscene or dialog.
+[04/30/20 22:19:45] Can't save while in a cutscene or dialog.
+[04/30/20 22:19:48] Can't save while in a cutscene or dialog.
+[04/30/20 22:19:54] Can't save while in a cutscene or dialog.
+[04/30/20 22:19:57] Can't save while in a cutscene or dialog.
+[04/30/20 22:20:15] Can't save while in a cutscene or dialog.
+[04/30/20 22:20:19] Can't save while in a cutscene or dialog.
+[04/30/20 22:20:34] Can't save while in a cutscene or dialog.
+[04/30/20 22:22:56] Can't save while in a cutscene or dialog.
+[04/30/20 22:23:43] Can't save while in a cutscene or dialog.
+[04/30/20 22:23:48] Can't save while in a cutscene or dialog.
+[04/30/20 22:24:01] Can't save while in a cutscene or dialog.
+[04/30/20 22:24:37] Can't save while in a cutscene or dialog.
+[04/30/20 22:25:09] Can't save while in a cutscene or dialog.
+[04/30/20 22:25:24] Can't save while in a cutscene or dialog.
+[04/30/20 22:25:33] Can't save while in a cutscene or dialog.
+[04/30/20 22:29:43] Can't save while in a cutscene or dialog.
+[04/30/20 22:29:46] Can't save while in a cutscene or dialog.
+[04/30/20 22:30:33] Can't save while in a cutscene or dialog.
+[04/30/20 22:31:01] Can't save while in a cutscene or dialog.
+[04/30/20 22:34:50] Can't save while in a cutscene or dialog.
+[04/30/20 22:37:59] Can't save while in a cutscene or dialog.
+[04/30/20 22:38:48] Can't save while in a cutscene or dialog.
+[04/30/20 22:39:22] Room 4002401 can't be found.
+[04/30/20 22:39:52] Can't save while in a cutscene or dialog.
+[04/30/20 22:40:33] Can't save while in a cutscene or dialog.
+[04/30/20 22:41:16] Can't save while in a cutscene or dialog.
+[04/30/20 22:43:44] Can't save while in a cutscene or dialog.
+[04/30/20 22:44:18] Can't save while in a cutscene or dialog.
+[04/30/20 22:44:57] Can't save while in a cutscene or dialog.
+[04/30/20 22:50:17] Can't save while in a cutscene or dialog.
+[04/30/20 22:51:32] Can't save while in a cutscene or dialog.
+[04/30/20 22:51:59] Can't save while in a cutscene or dialog.
+[04/30/20 22:52:15] Can't save while in a cutscene or dialog.
+[04/30/20 22:53:56] Can't save while in a cutscene or dialog.
+[04/30/20 22:55:06] Can't save while in a cutscene or dialog.
+[04/30/20 22:55:47] Can't save while in a cutscene or dialog.
+[04/30/20 22:56:07] Can't save while in a cutscene or dialog.
+[04/30/20 22:56:19] Can't save while in a cutscene or dialog.
+[04/30/20 22:57:20] Can't save while in a cutscene or dialog.
+[04/30/20 22:57:32] Can't save while in a cutscene or dialog.
+[04/30/20 22:57:34] Can't save while in a cutscene or dialog.
+[04/30/20 22:57:38] Can't save while in a cutscene or dialog.
+[04/30/20 22:57:43] Can't save while in a cutscene or dialog.
+[04/30/20 22:57:45] Can't save while in a cutscene or dialog.
+[04/30/20 22:58:02] Can't save while in a cutscene or dialog.
+[04/30/20 22:58:29] Can't save while in a cutscene or dialog.
+[04/30/20 23:00:21] Can't save while in a cutscene or dialog.
+[04/30/20 23:01:01] Can't save while in a cutscene or dialog.
+[04/30/20 23:07:00] Can't save while in a cutscene or dialog.
+[04/30/20 23:07:44] Can't save while in a cutscene or dialog.
+[04/30/20 23:09:10] Can't save while in a cutscene or dialog.
+[04/30/20 23:15:03] Can't save while in a cutscene or dialog.
+[04/30/20 23:16:26] Can't save while in a cutscene or dialog.
+[04/30/20 23:16:52] Light 0 can't be found.
+[04/30/20 23:17:13] Can't save while in a cutscene or dialog.
+[04/30/20 23:18:38] Light 6004973 can't be found.
+[04/30/20 23:18:52] Can't save while in a cutscene or dialog.
+[04/30/20 23:20:06] Can't save while in a cutscene or dialog.
+[04/30/20 23:24:37] Can't save while in a cutscene or dialog.
+[04/30/20 23:24:59] Light 6004977 can't be found.
+[04/30/20 23:25:08] Can't save while in a cutscene or dialog.
+[04/30/20 23:33:10] Can't save while in a cutscene or dialog.
+[04/30/20 23:35:40] Light 6005020 can't be found.
+[04/30/20 23:38:02] Can't save while in a cutscene or dialog.
+[04/30/20 23:44:40] Can't save while in a cutscene or dialog.
+[04/30/20 23:46:36] Can't save while in a cutscene or dialog.
+[04/30/20 23:47:30] Can't save while in a cutscene or dialog.
+[04/30/20 23:48:09] Light 6005099 can't be found.
+[04/30/20 23:49:18] Can't save while in a cutscene or dialog.
+[04/30/20 23:49:29] Can't save while in a cutscene or dialog.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4014618' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4015040' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4015107' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4011249' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4015186' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4017461' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4015115' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4017467' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4017436' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4017463' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4014555' not found.
+[04/30/20 23:53:29] Loading: Object 'speck_of_dust_room-4017457' not found.
+[04/30/20 23:53:30] Loading: Object 'speck_of_dust_room-4017431' not found.
+[04/30/20 23:53:30] Loading: Object 'speck_of_dust_room-4017432' not found.
+[04/30/20 23:53:30] Loading: Object 'speck_of_dust_room-4017421' not found.
+[04/30/20 23:53:30] Loading: Object 'speck_of_dust_room-4017357' not found.
+[04/30/20 23:53:30] Loading: Object 'speck_of_dust_room-4015122' not found.
+[04/30/20 23:53:30] Loading: Object 'speck_of_dust_room-4016304' not found.
+[04/30/20 23:53:30] Loading: Object 'speck_of_dust_room-4017381' not found.
+[04/30/20 23:53:30] Loading: Object 'speck_of_dust_room-4011167' not found.
+[04/30/20 23:53:30] Loading: Object 'hotelRoomATVGlow' not found.
+[04/30/20 23:54:07] Can't save while in a cutscene or dialog.
+[04/30/20 23:54:48] Can't save while in a cutscene or dialog.
+[04/30/20 23:55:01] Can't save while in a cutscene or dialog.
+[04/30/20 23:55:23] Can't save while in a cutscene or dialog.
+[04/30/20 23:56:06] Loading: Object 'speck_of_dust_room-4014618' not found.
+[04/30/20 23:56:06] Loading: Object 'speck_of_dust_room-4015040' not found.
+[04/30/20 23:56:06] Loading: Object 'speck_of_dust_room-4015107' not found.
+[04/30/20 23:56:06] Loading: Object 'speck_of_dust_room-4011249' not found.
+[04/30/20 23:56:06] Loading: Object 'speck_of_dust_room-4015186' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017461' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4015115' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017467' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017436' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017463' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4014555' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017457' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017431' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017432' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017421' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017357' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4015122' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4016304' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4017381' not found.
+[04/30/20 23:56:07] Loading: Object 'speck_of_dust_room-4011167' not found.
+[04/30/20 23:56:07] Loading: Object 'hotelRoomATVGlow' not found.
+[04/30/20 23:58:27] Can't save while in a cutscene or dialog.
+[05/01/20 00:00:24] Can't save while in a cutscene or dialog.
+[05/01/20 00:00:41] Can't save while in a cutscene or dialog.
+[05/01/20 00:01:03] Can't save while in a cutscene or dialog.
+[05/01/20 00:01:17] Can't save while in a cutscene or dialog.
+[05/01/20 00:02:56] Can't save while in a cutscene or dialog.
+[05/01/20 00:05:00] Can't save while in a cutscene or dialog.
+[05/01/20 00:16:54] Can't save while in a cutscene or dialog.
+[05/01/20 00:19:26] Can't save while in a cutscene or dialog.
+[05/01/20 00:21:14] Can't save while in a cutscene or dialog.
+[05/01/20 00:28:00] Can't save while in a cutscene or dialog.
+[05/01/20 00:28:53] Sound 'Laser3-12db.wav' not found.
+[05/01/20 00:28:54] Sound 'Laser5-12db.wav' not found.
+[05/01/20 00:28:54] Sound 'Laser5-12db.wav' not found.
+[05/01/20 00:28:54] Sound 'Laser1-12db.wav' not found.
+[05/01/20 00:28:55] Sound 'Laser1-12db.wav' not found.
+[05/01/20 00:28:55] Sound 'Laser1-12db.wav' not found.
+[05/01/20 00:28:55] Sound 'Laser6-12db.wav' not found.
+[05/01/20 00:28:55] Sound 'Laser5-12db.wav' not found.
+[05/01/20 00:28:55] Sound 'Laser5-12db.wav' not found.
+[05/01/20 00:28:55] Sound 'Laser3-12db.wav' not found.
+[05/01/20 00:28:55] Sound 'Laser1-12db.wav' not found.
+[05/01/20 00:28:55] Sound 'Laser1-12db.wav' not found.
+[05/01/20 00:28:56] Sound 'Laser3-12db.wav' not found.
+[05/01/20 00:36:11] Can't save while in a cutscene or dialog.
+[05/01/20 00:47:16] Can't save while in a cutscene or dialog.
+[05/01/20 00:50:34] Can't save while in a cutscene or dialog.
+[05/01/20 00:58:40] Can't save while in a cutscene or dialog.
+[05/01/20 00:59:24] Can't save while in a cutscene or dialog.
+[05/01/20 01:01:28] Can't save while in a cutscene or dialog.
+[05/01/20 01:02:08] Can't save while in a cutscene or dialog.
+[05/01/20 01:02:17] Can't save while in a cutscene or dialog.
+[05/01/20 01:05:05] Can't save while in a cutscene or dialog.
+[05/01/20 01:07:56] Can't save while in a cutscene or dialog.
+[05/01/20 01:08:54] Can't save while in a cutscene or dialog.
+[05/01/20 01:09:10] Can't save while in a cutscene or dialog.
+[05/01/20 01:11:08] Can't save while in a cutscene or dialog.
+[05/01/20 01:19:19] Can't save while in a cutscene or dialog.
+[05/01/20 01:27:17] Animation stand_front not found.
+[05/01/20 01:27:17] Animation stand_front not found.
+[05/01/20 01:27:18] Animation stand_front not found.
+[05/01/20 01:30:42] cutscene called while another cutscene is running
+[05/01/20 01:31:16] Can't save while in a cutscene or dialog.
